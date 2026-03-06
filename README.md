@@ -12,7 +12,7 @@ Explored and cleaned a real 1.3 million row motor sensor dataset
 Dataset sourced from kagge. link:https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature
 Engineered time series features (lag, rolling average, delta)
 Trained a Random Forest regression model achieving MAE of 0.67°C
-Deployed as an interactive Streamlit web app with live predictions
+Deployed as an interactive Streamlit web app with live predictions. Still ironing out the kinks on the slider range and how it affects the final output
 
 Tech stack
 Python, Pandas, Scikit-learn, Matplotlib, Streamlit, Joblib
