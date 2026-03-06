@@ -1,6 +1,3 @@
-# ev_motor_temp_monitoring
-Predicts permanent magnet temperature in EV motors from sensor readings using a Random Forest model trained on real motor data — achieving MAE of 0.67°C.
-
 **EV Motor PM Temperature Predictor**
 A machine learning model that predicts the permanent magnet temperature of an electric motor in real time using indirect sensor readings.
 
